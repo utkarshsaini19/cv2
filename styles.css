@@ -26,9 +26,11 @@ h2{
   font-weight: normal;
   color:#66BFBF;
   font-size: 2rem;
+  font-family: 'Baloo Bhai', cursive;
 }
 h3{
   color:#11999E;
+  font-family: 'Baloo Bhai', cursive;
 }
 .bottom-cloud{
   position: absolute;
@@ -70,6 +72,7 @@ h3{
 }
 p{
   line-height: 2;
+  font-family: 'Baloo Bhai', cursive;
 }
 hr{
   border: dotted #EAF6F6 6px;
@@ -115,4 +118,5 @@ a:hover{
 }
 .p1{
   margin-bottom: 75px;
+  font-family: 'Baloo Bhai', cursive;
 }
